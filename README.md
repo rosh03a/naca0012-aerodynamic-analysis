@@ -12,3 +12,15 @@ The project includes:
 - Comparison with classical aerodynamic theory
 
 The work demonstrates how mathematical modelling and numerical implementation can be used to gain physical insight into aerodynamic behaviour.
+
+# Technologies Used
+
+- Python
+- NumPy
+- Matplotlib
+- Google Colab
+
+# Author
+
+Roshni Aftab Mohammad
+BSc Mathematics (First Class Honours)
